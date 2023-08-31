@@ -2,7 +2,7 @@
     "theme_color": "#ffffff",
     "background_color": "#ffffff",
     "display": "browser",
-    "scope": "/oye",
+    "scope": "https://www.oye.or.id",
     "start_url": "https://www.oye.or.id",
     "name": "Oye Digital Indonesia",
     "short_name": "Oye Digital Indonesia",
