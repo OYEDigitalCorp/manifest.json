@@ -1,0 +1,39 @@
+{
+  "name": "Bezzoo Job & karir",
+  "short_name": "Bezzoo",
+  "scope": "https://www.bezzoo.com/",
+  "start_url": "https://www.bezzoo.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#eceff1",
+  "description": "Situs lowongan kerja (Job Portal) fokus dibidang rekrutmen untuk mempermudah cari pekerjaan",
+  "icons": [{
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEjyNBUz2QvbR3A7skw31s-zdqGK9Ydx4gq0ulT4GnAGx4V7ReBz5XjmH8HnK0K3Mdb5sX-jKchzTH8bt1KI_dL8Kgd5vSunZBoXZY2LyRiMMTcKEqEewcj-t9bGmzQGggGjzw4hHDQvD501fv25CuiHUHWFKuLeI3e5ilMojgLYZHlxjm6-X_gDu_wXP4s=s48/icon-48x48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEjyNBUz2QvbR3A7skw31s-zdqGK9Ydx4gq0ulT4GnAGx4V7ReBz5XjmH8HnK0K3Mdb5sX-jKchzTH8bt1KI_dL8Kgd5vSunZBoXZY2LyRiMMTcKEqEewcj-t9bGmzQGggGjzw4hHDQvD501fv25CuiHUHWFKuLeI3e5ilMojgLYZHlxjm6-X_gDu_wXP4s=s72/icon-72x72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEjyNBUz2QvbR3A7skw31s-zdqGK9Ydx4gq0ulT4GnAGx4V7ReBz5XjmH8HnK0K3Mdb5sX-jKchzTH8bt1KI_dL8Kgd5vSunZBoXZY2LyRiMMTcKEqEewcj-t9bGmzQGggGjzw4hHDQvD501fv25CuiHUHWFKuLeI3e5ilMojgLYZHlxjm6-X_gDu_wXP4s=s96/icon-96x96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEjyNBUz2QvbR3A7skw31s-zdqGK9Ydx4gq0ulT4GnAGx4V7ReBz5XjmH8HnK0K3Mdb5sX-jKchzTH8bt1KI_dL8Kgd5vSunZBoXZY2LyRiMMTcKEqEewcj-t9bGmzQGggGjzw4hHDQvD501fv25CuiHUHWFKuLeI3e5ilMojgLYZHlxjm6-X_gDu_wXP4s=s144/icon-144x144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEjyNBUz2QvbR3A7skw31s-zdqGK9Ydx4gq0ulT4GnAGx4V7ReBz5XjmH8HnK0K3Mdb5sX-jKchzTH8bt1KI_dL8Kgd5vSunZBoXZY2LyRiMMTcKEqEewcj-t9bGmzQGggGjzw4hHDQvD501fv25CuiHUHWFKuLeI3e5ilMojgLYZHlxjm6-X_gDu_wXP4s=s168/icon-168x168.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEjyNBUz2QvbR3A7skw31s-zdqGK9Ydx4gq0ulT4GnAGx4V7ReBz5XjmH8HnK0K3Mdb5sX-jKchzTH8bt1KI_dL8Kgd5vSunZBoXZY2LyRiMMTcKEqEewcj-t9bGmzQGggGjzw4hHDQvD501fv25CuiHUHWFKuLeI3e5ilMojgLYZHlxjm6-X_gDu_wXP4s=s192/icon-192x192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEjyNBUz2QvbR3A7skw31s-zdqGK9Ydx4gq0ulT4GnAGx4V7ReBz5XjmH8HnK0K3Mdb5sX-jKchzTH8bt1KI_dL8Kgd5vSunZBoXZY2LyRiMMTcKEqEewcj-t9bGmzQGggGjzw4hHDQvD501fv25CuiHUHWFKuLeI3e5ilMojgLYZHlxjm6-X_gDu_wXP4s=s512/icon-512x512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
