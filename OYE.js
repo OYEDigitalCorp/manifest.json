@@ -2,7 +2,7 @@ const CACHE_NAME = 'OYE';
 const toCache = [
     '/',
     '/manifest.json',
-    '/services.js',
+    'https://cdn.jsdelivr.net/gh/OYEDigitalCorp/manifest.json@7abad4f4bb009fc3d41aefa8c58ce6cff958b553/services.js',
     '/icon-192x192.png',
 ];
 
