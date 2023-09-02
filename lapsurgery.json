@@ -1,0 +1,39 @@
+{
+  "name": "Dr Stephen Watson",
+  "short_name": "Dr Stephen Watson",
+  "scope": "https://lapsurgery.com.au/",
+  "start_url": "https://lapsurgery.com.au/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#eceff1",
+  "description": "Dr Stephen Watson is a laparoscopic general surgeon who has been specialising in weight loss surgery since 1999.",
+  "icons": [{
+    "src": "https://lapsurgery.com.au/wp-content/uploads/2021/02/Logo-Blue.svg",
+    "sizes": "48x48",
+    "type": "image/svg"
+  }, {
+    "src": "https://lapsurgery.com.au/wp-content/uploads/2021/02/Logo-Blue.svg",
+    "sizes": "72x72",
+    "type": "image/svg"
+  }, {
+    "src": "https://lapsurgery.com.au/wp-content/uploads/2021/02/Logo-Blue.svg",
+    "sizes": "96x96",
+    "type": "image/svg"
+  }, {
+    "src": "https://lapsurgery.com.au/wp-content/uploads/2021/02/Logo-Blue.svg",
+    "sizes": "144x144",
+    "type": "image/svg"
+  }, {
+    "src": "https://lapsurgery.com.au/wp-content/uploads/2021/02/Logo-Blue.svg",
+    "sizes": "168x168",
+    "type": "image/svg"
+  }, {
+    "src": "https://lapsurgery.com.au/wp-content/uploads/2021/02/Logo-Blue.svg",
+    "sizes": "192x192",
+    "type": "image/svg"
+  }, {
+    "src": "https://lapsurgery.com.au/wp-content/uploads/2021/02/Logo-Blue.svg",
+    "sizes": "512x512",
+    "type": "image/svg"
+  }]
+}
