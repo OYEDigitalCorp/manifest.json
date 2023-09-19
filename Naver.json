@@ -1,0 +1,320 @@
+{
+"search_metadata":
+{
+"id":
+"6509d2b4fe41d078b910633a",
+"status":
+"Success",
+"json_endpoint":
+"https://serpapi.com/searches/be568bad9e765de0/6509d2b4fe41d078b910633a.json",
+"created_at":
+"2023-09-19 16:56:20 UTC",
+"processed_at":
+"2023-09-19 16:56:20 UTC",
+"naver_url":
+"https://search.naver.com/search.naver?query=News&where=news",
+"raw_html_file":
+"https://serpapi.com/searches/be568bad9e765de0/6509d2b4fe41d078b910633a.html",
+"total_time_taken":
+1.24
+},
+"search_parameters":
+{
+"query":
+"News",
+"engine":
+"naver",
+"where":
+"news"
+},
+"related_results":
+[
+{
+"position":
+1,
+"title":
+"mews",
+"link":
+"https://search.naver.com?where=news&query=mews&ie=utf8&sm=tab_she&qdt=0"
+},
+{
+"position":
+2,
+"title":
+"news 단수",
+"link":
+"https://search.naver.com?where=news&query=news+%EB%8B%A8%EC%88%98&ie=utf8&sm=tab_she&qdt=0"
+},
+{
+"position":
+3,
+"title":
+"파파고",
+"link":
+"https://search.naver.com?where=news&query=%ED%8C%8C%ED%8C%8C%EA%B3%A0&ie=utf8&sm=tab_she&qdt=0"
+},
+{
+"position":
+4,
+"title":
+"new",
+"link":
+"https://search.naver.com?where=news&query=new&ie=utf8&sm=tab_she&qdt=0"
+},
+{
+"position":
+5,
+"title":
+"news 어원",
+"link":
+"https://search.naver.com?where=news&query=news+%EC%96%B4%EC%9B%90&ie=utf8&sm=tab_she&qdt=0"
+}
+],
+"news_results":
+[
+{
+"position":
+1,
+"title":
+"Yonhap News Summary",
+"link":
+"https://en.yna.co.kr/view/AEN20230919007700320?input=2106m",
+"news_info":
+{
+"press_name":
+"연합뉴스",
+"news_date":
+"8시간 전"
+},
+"snippet":
+"Yonhap News Summary The following is the second summary of major stories moved by Yonhap News Agency on Tuesday. ----------------- (LEAD) Ex-President Moon visits hospitalized DP leader Lee on..."
+},
+{
+"position":
+2,
+"title":
+"[카드News]신한카드·비씨카드·삼성카드",
+"link":
+"http://www.metroseoul.co.kr/article/20230919500112",
+"thumbnail":
+"https://serpapi.com/searches/6509d2b4fe41d078b910633a/images/907a2436121e85e67da4255eedfaab6bf9ee2cfed6ec313e22f82a4d88ca92a7.gif",
+"news_info":
+{
+"press_name":
+"메트로신문",
+"news_date":
+"15시간 전"
+},
+"snippet":
+"신한카드 ci./신한카드 신한카드가 황금연휴에 해외로 향하는 소비자를 정조준한다. ◆ 해외 이용 수수료 최대 20만원까지 신한카드는 추석 연휴를 맞아 해외여행객을 위한 이벤트를 진행한다고 19일 밝혔다. 해외 이용..."
+},
+{
+"position":
+3,
+"title":
+"[Travel News> 싼야에서 서핑, 트레킹, 라이딩 즐겨보실래요?",
+"link":
+"http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00007&news_seq_no=4964131",
+"thumbnail":
+"https://serpapi.com/searches/6509d2b4fe41d078b910633a/images/907a2436121e85e695328128b1ab4d059d050b785a1e9b6fbceeef420363e5b3.gif",
+"news_info":
+{
+"press_name":
+"MBN",
+"news_date":
+"8시간 전"
+},
+"snippet":
+"중국 하이난성 싼야시 관광설명회 개최 “골프, 서핑, 무비자제도 등 적극 홍보해 싼야 방문율 높일 것” 중국 하이난성 싼야시 관광 발전국은 지난 15일 남산 하얏트 호텔에서 주요 여행사와 미디어 관계자를 초청해..."
+},
+{
+"position":
+4,
+"title":
+"무료 인터넷신문 플랫폼 ‘NEWS G’ 한국어판 ‘선봬’",
+"link":
+"http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202309190222&t=NN",
+"thumbnail":
+"https://serpapi.com/searches/6509d2b4fe41d078b910633a/images/907a2436121e85e6f1830daca686f0d04d58c389a6baa95d62401beba652b33c.gif",
+"news_info":
+{
+"press_name":
+"한국경제TV",
+"news_date":
+"8시간 전"
+},
+"snippet":
+"세계 최초 뉴스 플랫폼 NEWSG (팀리더 정지우)는 AI 기술과 전 세계 1만3천개 외신 네트워크의 사진·기사를 무료로 제공해서 인터넷 언론사 창업 후 자동관리로 관리비용이 전혀 들지 않는 인터넷신문 플랫폼 서비스..."
+},
+{
+"position":
+5,
+"title":
+"[신상NEWS] 빈폴키즈‧블랙야크키즈‧헤지스키즈 “가을 신상 나왔어요~”",
+"link":
+"https://www.news2day.co.kr/article/20230919500109",
+"thumbnail":
+"https://serpapi.com/searches/6509d2b4fe41d078b910633a/images/907a2436121e85e6ac1db55f20ba1cefd4f1537bae4913a08d3bb91e1489039a.gif",
+"news_info":
+{
+"press_name":
+"뉴스투데이",
+"news_date":
+"15시간 전"
+},
+"snippet":
+"야외활동이 잦아지는 가을철을 맞아 패션 키즈 브랜드들이 가을 신상품을 선보이고 있다. 또 블랙야크키즈는 캐주얼한 느낌의 바람막이 자켓 3종을, 헤지스키즈는 여자아이들을 위한 ‘소피아 경량 다운’ 2종을 각각..."
+},
+{
+"position":
+6,
+"title":
+"Today’s Top News: World Leaders Gather at the U.N., and More",
+"link":
+"https://www.nytimes.com/2023/09/19/podcasts/headlines-nyt-audio-app.html?partner=naver",
+"thumbnail":
+"https://serpapi.com/searches/6509d2b4fe41d078b910633a/images/907a2436121e85e6e04811ed874160ea362984b63d01471862aec8d1fe7c1fd7.gif",
+"news_info":
+{
+"press_name":
+"The New York Times",
+"news_date":
+"7시간 전"
+},
+"snippet":
+"The New York Times Audio app is home to journalism and storytelling, and provides news, depth and serendipity. If you haven’t already, download it here — available to Times news subscribers..."
+},
+{
+"position":
+7,
+"title":
+"(News Focus) 5 years after signing, future of inter-Korean military acco...",
+"link":
+"https://en.yna.co.kr/view/AEN20230919002900325?input=2106m",
+"thumbnail":
+"https://serpapi.com/searches/6509d2b4fe41d078b910633a/images/907a2436121e85e6cf983b1d7576919663309f5cfecb86f2328fb3f2c1eeb816.gif",
+"news_info":
+{
+"press_name":
+"연합뉴스",
+"news_date":
+"14시간 전"
+},
+"snippet":
+"Koreas-military accord 5 years after signing, future of inter-Korean military accord unclear By Chae Yun-hwan SEOUL, Sept. 19 (Yonhap) -- Five years after its signing, the fate of a landmark..."
+},
+{
+"position":
+8,
+"title":
+"[윤희영의 News English] 北이 낀 또 다른 ‘악의 축(Axis of Evil)’",
+"link":
+"https://www.chosun.com/opinion/specialist_column/2023/09/19/IKJLFGESNZBADBIM4ZW4K5BCQA/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+"thumbnail":
+"https://serpapi.com/searches/6509d2b4fe41d078b910633a/images/907a2436121e85e6a0a9493f219099482630d2ad72e874536cb1c2db5fc23235.gif",
+"news_info":
+{
+"press_name":
+"조선일보",
+"news_date":
+"22시간 전"
+},
+"snippet":
+"“북한·러시아·중국·이란이 미국 주도 세계 질서를 뒤엎으려고 작정한(be bent on upending the U.S.-led international order) 위험한 동맹을 조직하고(form an unholy alliance) 있다.” 미국 시사 매체..."
+},
+{
+"position":
+9,
+"title":
+"[Photo News] Crown princes' building",
+"link":
+"https://www.koreaherald.com/view.php?ud=20230919000600",
+"thumbnail":
+"https://serpapi.com/searches/6509d2b4fe41d078b910633a/images/907a2436121e85e66a0c5f2d4377a1a0733796cc603ebd95c8dab974a508ff80.gif",
+"news_info":
+{
+"press_name":
+"코리아헤럴드",
+"news_date":
+"11시간 전"
+},
+"snippet":
+"Gyejodang, a part of Gyeongbokgung where the Joseon crown princes attended to state affairs and hosted banquets, opens to the public Wednesday after a six-year restoration. Built in 1443 during..."
+},
+{
+"position":
+10,
+"title":
+"Yonhap News Summary",
+"link":
+"https://en.yna.co.kr/view/AEN20230918007400320?input=2106m",
+"news_info":
+{
+"press_name":
+"연합뉴스",
+"news_date":
+"1일 전"
+},
+"snippet":
+"Yonhap News Summary The following is the second summary of major stories moved by Yonhap News Agency on Monday. ----------------- Opposition lawmaker loses seat as top court upholds sentence over..."
+}
+],
+"pagination":
+{
+"current":
+1,
+"next":
+"https://search.naver.com?where=news&sm=tab_pge&query=News&sort=0&photo=0&field=0&pd=0&ds=&de=&cluster_rank=11&mynews=0&office_type=0&office_section_code=0&news_office_checked=&office_category=0&service_area=0&nso=so:r,p:all,a:all&start=11",
+"other_pages":
+{
+"2":
+"https://search.naver.com?where=news&sm=tab_pge&query=News&sort=0&photo=0&field=0&pd=0&ds=&de=&cluster_rank=11&mynews=0&office_type=0&office_section_code=0&news_office_checked=&office_category=0&service_area=0&nso=so:r,p:all,a:all&start=11",
+"3":
+"https://search.naver.com?where=news&sm=tab_pge&query=News&sort=0&photo=0&field=0&pd=0&ds=&de=&cluster_rank=11&mynews=0&office_type=0&office_section_code=0&news_office_checked=&office_category=0&service_area=0&nso=so:r,p:all,a:all&start=21",
+"4":
+"https://search.naver.com?where=news&sm=tab_pge&query=News&sort=0&photo=0&field=0&pd=0&ds=&de=&cluster_rank=11&mynews=0&office_type=0&office_section_code=0&news_office_checked=&office_category=0&service_area=0&nso=so:r,p:all,a:all&start=31",
+"5":
+"https://search.naver.com?where=news&sm=tab_pge&query=News&sort=0&photo=0&field=0&pd=0&ds=&de=&cluster_rank=11&mynews=0&office_type=0&office_section_code=0&news_office_checked=&office_category=0&service_area=0&nso=so:r,p:all,a:all&start=41",
+"6":
+"https://search.naver.com?where=news&sm=tab_pge&query=News&sort=0&photo=0&field=0&pd=0&ds=&de=&cluster_rank=11&mynews=0&office_type=0&office_section_code=0&news_office_checked=&office_category=0&service_area=0&nso=so:r,p:all,a:all&start=51",
+"7":
+"https://search.naver.com?where=news&sm=tab_pge&query=News&sort=0&photo=0&field=0&pd=0&ds=&de=&cluster_rank=11&mynews=0&office_type=0&office_section_code=0&news_office_checked=&office_category=0&service_area=0&nso=so:r,p:all,a:all&start=61",
+"8":
+"https://search.naver.com?where=news&sm=tab_pge&query=News&sort=0&photo=0&field=0&pd=0&ds=&de=&cluster_rank=11&mynews=0&office_type=0&office_section_code=0&news_office_checked=&office_category=0&service_area=0&nso=so:r,p:all,a:all&start=71",
+"9":
+"https://search.naver.com?where=news&sm=tab_pge&query=News&sort=0&photo=0&field=0&pd=0&ds=&de=&cluster_rank=11&mynews=0&office_type=0&office_section_code=0&news_office_checked=&office_category=0&service_area=0&nso=so:r,p:all,a:all&start=81",
+"10":
+"https://search.naver.com?where=news&sm=tab_pge&query=News&sort=0&photo=0&field=0&pd=0&ds=&de=&cluster_rank=11&mynews=0&office_type=0&office_section_code=0&news_office_checked=&office_category=0&service_area=0&nso=so:r,p:all,a:all&start=91"
+}
+},
+"serpapi_pagination":
+{
+"current":
+1,
+"next_link":
+"https://serpapi.com/search.json?engine=naver&query=News&start=11&where=news",
+"next":
+"https://serpapi.com/search.json?engine=naver&query=News&start=11&where=news",
+"other_pages":
+{
+"2":
+"https://serpapi.com/search.json?engine=naver&query=News&start=11&where=news",
+"3":
+"https://serpapi.com/search.json?engine=naver&query=News&start=21&where=news",
+"4":
+"https://serpapi.com/search.json?engine=naver&query=News&start=31&where=news",
+"5":
+"https://serpapi.com/search.json?engine=naver&query=News&start=41&where=news",
+"6":
+"https://serpapi.com/search.json?engine=naver&query=News&start=51&where=news",
+"7":
+"https://serpapi.com/search.json?engine=naver&query=News&start=61&where=news",
+"8":
+"https://serpapi.com/search.json?engine=naver&query=News&start=71&where=news",
+"9":
+"https://serpapi.com/search.json?engine=naver&query=News&start=81&where=news",
+"10":
+"https://serpapi.com/search.json?engine=naver&query=News&start=91&where=news"
+}
+}
+}
